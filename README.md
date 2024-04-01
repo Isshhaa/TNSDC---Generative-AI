@@ -10,3 +10,4 @@ The "Image Denoising Using Autoencoders" project aims to develop a robust system
 3. Adaptive Noise Removal: The system adapts to various levels and types of noise present in input images, ensuring robust performance across different scenarios.
 4. User-Friendly Interface: The project provides a user-friendly interface for users to input noisy images and obtain denoised outputs. This interface facilitates easy integration into existing image processing pipelines or applications.
 5. Customizable Hyperparameters: Users have the flexibility to fine-tune hyperparameters such as learning rate, batch size, and network architecture to optimize denoising performance according to specific requirements.
+
